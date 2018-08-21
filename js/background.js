@@ -11,6 +11,7 @@ div.style.width="400px";
 div.style.float="right";
 div.style.padding="10px";
 div.style.fontSize="14px";
+div.style.color="red";
 
 var isbn=null;
 var containerElement=null; //显示书评内容的父元素
